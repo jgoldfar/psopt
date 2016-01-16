@@ -30,3 +30,4 @@
 # Emacs Backup Files
 *~
 *.tags
+/psopt-master.zip
